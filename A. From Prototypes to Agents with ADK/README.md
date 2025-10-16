@@ -3,7 +3,7 @@
 ## Overview
 This project is a small AI agent built with the Google Agent Development Kit (ADK). It answers everyday questions by orchestrating multiple capabilities: a custom crypto price lookup, a real-time web search specialist, and a Wikipedia knowledge tool. The agent uses Gemini 2.0 Flash for fast, tool-centric responses.
 
-**Video walkthrough:** [Add your YouTube link here]
+**Video walkthrough:** (📹)
 
 ## Features
 * **Multi-tool orchestration:** Combines a custom function, a search specialist agent, and a third-party (LangChain) tool.
