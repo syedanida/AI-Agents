@@ -4,7 +4,7 @@
 ## Overview
 A simple AI agent built with Google's Agent Development Kit (ADK). This is a foundational conversational assistant powered by Gemini 2.5 Flash that demonstrates the core structure of ADK agents.
 
-**Video walkthrough:** [Add your YouTube link here]
+**Video walkthrough:** [📹 Link](https://youtu.be/TbADxlQLpH8)
 
 ## What It Does
 - Answers general questions
