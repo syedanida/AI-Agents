@@ -4,7 +4,7 @@
 ## Overview
 A complete AI travel agent built with Google's Agent Development Kit (ADK) and MCP Toolbox for Databases. This agent intelligently queries a Cloud SQL PostgreSQL database to answer questions about hotels in real-time.
 
-**Video walkthrough:** [Add your YouTube link here]
+**Video walkthrough:** [📹 Link](https://youtu.be/9FprjaYkhnM)
 
 ## What It Does
 - Searches for hotels by city or location
